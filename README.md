@@ -12,3 +12,12 @@ January 5, 2015 (Day 1)
 January 6, 2015 (Day 2)
 ---
 **13 pages, 45 minutes** I covered only half of my goal today because I started at midnight. Tomorrow I have to do 45 pages to stay on track. Tonight covered: functions, strings, and arrays. Bubble sort, and  getchar and putchar made cameos. Up next are pointers and file I/O.
+
+January 9, 2015 (Day 3)
+---
+
+**35 pages, 2 hours** I've fallen behind, but if I do 35 pages daily, I'll finish on time. 
+
+Tonight took longer than usual because I finally configured vim with a .vimrc, and got a little distracted. (For some reason my Mac is using GCC 4.2.1 instead of LLVM.) I did end up annotating my textbook and practicing a bit though. I covered pointers (variable vs. constant) basic file I/O, a little bit of light reading on file system considerations.
+
+The conversation in this book about lexical elements and tokens was fascinating. Some of the material looked like it came straight out of my Theory of Computation class from last semester. 
